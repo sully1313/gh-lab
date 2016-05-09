@@ -99,6 +99,7 @@ There is no screenshot for this lab.  You should have two separate GitHub reposi
 - [Git documentation](https://git-scm.com/documentation)
 - [Forking on github](https://help.github.com/articles/fork-a-repo/)
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+- [Linus Travalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
 
 ### Self Evaluation
 
