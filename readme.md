@@ -1,6 +1,13 @@
+<!--
+Market: SF
+-->
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+
 # Git and GitHub Intro Lab
 
 ## Introduction
+> ***Note:*** *This is a pair programming activity.*
+
 
 Let's apply what we've learned from class to share and update each other's code.  With a partner, you're going going to alternate between who 'drives' and who 'navigates' while following the requirements under "Exercise" below. The goal will be to create a project, have a partner fork, clone, and edit the project, submit the changes as a pull request, and then have the changes merged.  
 
@@ -9,6 +16,11 @@ Be sure to look at the previous lesson for notes and helpful hints.
 ## Exercise
 
 Partners will be referred to as partner1 and partner2.
+
+#### Requirements
+
+- Follow instructions below
+- At the end you will each have an identical repository that you each have contributed to from your own computers.
 
 ### Part 1
 
@@ -87,3 +99,14 @@ There is no screenshot for this lab.  You should have two separate GitHub reposi
 - [Git documentation](https://git-scm.com/documentation)
 - [Forking on github](https://help.github.com/articles/fork-a-repo/)
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+
+### Self Evaluation
+
+During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
+
+- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
+- **Organization:** Do you thoughtfully implement best coding patterns and practices?
+- **Collaboration:** Do you make an effort solve problems and share your ideas with others?
+- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
+- **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
+- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know? 
